@@ -10,7 +10,7 @@
 
 I'm a passionate **Full-Stack Web Developer** and **Mobile Application Developer** with hands-on experience delivering high-quality digital solutions for diverse clients globally. Currently, I'm pursuing a **Bachelor of Technology in Computer Science** at **PW Institute of Innovation (2025–2029)** while gaining practical experience as a Web Development Intern at multiple organizations.
 
-As a **freelance developer since 2022**, I've successfully built and deployed **25+ professional websites** for industries including IT solutions, digital agencies, marketing services, sports platforms, and financial advisory. My expertise spans custom website development, e-commerce solutions, SEO optimization, and cross-platform mobile applications.
+As a **freelance developer since 2022**, I've successfully built and deployed **40+ professional websites** for industries including IT solutions, digital agencies, marketing services, sports platforms, and financial advisory. My expertise spans custom website development, e-commerce solutions, SEO optimization, and cross-platform mobile applications.
 
 **I'm passionate about:**
 - Crafting visually compelling and performance-optimized digital experiences
@@ -85,7 +85,7 @@ As a **freelance developer since 2022**, I've successfully built and deployed **
 - 169+ followers on LinkedIn
 - 38 search appearances in LinkedIn searches
 - 90+ post impressions in the past 7 days
-- 25+ professional websites delivered to satisfied clients
+- 40+ professional websites delivered to satisfied clients
 - 500K+ monthly visitors on optimized SEO projects
 
 ---
@@ -191,7 +191,7 @@ As a **freelance developer since 2022**, I've successfully built and deployed **
 - **Email**: contact@raunit.online
 - **LinkedIn**: [@raunit1](https://www.linkedin.com/in/raunit1/)
 - **Personal Website**: [meetraunit.online](https://www.meetraunit.online/)
-- **Phone**: +91-9172938748 (WhatsApp)
+- **Phone**: +91-7292858748 (WhatsApp & Call)
 
 ---
 
