@@ -1,174 +1,205 @@
-<div align="center">
-  
-# 👋 Hi, I'm Raunit Raj
+# Raunit Raj
 
-### 🚀 Web & App Developer | WordPress & Shopify Specialist | SEO Enthusiast
+**Full-Stack Web Developer | Mobile App Developer | Data Science Enthusiast**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://meet.raunitx.online/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunit1/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@raunitx.online)
-
-![Profile Views](https://komarev.com/ghpvc/?username=raunitttttttttt-alt&color=blueviolet&style=for-the-badge)
-
-</div>
+🌍 Noida, Uttar Pradesh, India | 📧 contact@raunit.online | 🔗 [LinkedIn](https://www.linkedin.com/in/raunit1/) | 🌐 [Website](https://www.meetraunit.online/)
 
 ---
 
-## 🎯 About Me
+## 👋 About Me
 
-I'm a **passionate Web and App Developer** with hands-on experience delivering high-quality digital solutions for diverse clients. Currently pursuing a **Bachelor of Technology in Computer Science** at PW Institute of Innovation (2025-2029). 
+I'm a passionate **Full-Stack Web Developer** and **Mobile Application Developer** with hands-on experience delivering high-quality digital solutions for diverse clients globally. Currently, I'm pursuing a **Bachelor of Technology in Computer Science** at **PW Institute of Innovation (2025–2029)** while gaining practical experience as a Web Development Intern at multiple organizations.
 
-As a **freelancer since 2022**, I specialize in WordPress, Shopify, Magento, and Flutter (Dart) development. I've partnered with **25+ businesses** and individuals to build engaging, user-friendly websites and e-commerce platforms.
+As a **freelance developer since 2022**, I've successfully built and deployed **25+ professional websites** for industries including IT solutions, digital agencies, marketing services, sports platforms, and financial advisory. My expertise spans custom website development, e-commerce solutions, SEO optimization, and cross-platform mobile applications.
 
-
-const raunit = {
-code: ["JavaScript", "HTML/CSS", "C", "Dart"],
-technologies: {
-cms: ["WordPress", "Shopify", "Magento", "WooCommerce"],
-frontend: ["Flutter", "Responsive Design"],
-backend: ["PHP", "MySQL"],
-tools: ["SEO", "Git", "VS Code"]
-},
-currentRole: "Web Development Intern @ DigiFalx Digital Beginning LLP",
-learning: ["Advanced Flutter", "Full-Stack Development", "Mobile App Development"],
-projects: "25+ Client Websites Delivered",
-availableForFreelance: true
-};
-
-
-
+**I'm passionate about:**
+- Crafting visually compelling and performance-optimized digital experiences
+- Combining clean architecture with efficient backend logic
+- Delivering solutions that drive measurable business growth
+- Continuous learning and staying updated with emerging web technologies
 
 ---
 
-## 💼 Experience
+## 💼 Current Experience
 
-🔹 **Web Development Intern** @ DigiFalx Digital Beginning LLP *(Oct 2025 - Present)*
-- Contributing to the design, optimization, and deployment of dynamic company websites using WordPress
-- Collaborating with senior developers to implement responsive and user-friendly web solutions
+### **Web Development Intern** @ Yung Minds-India's Finest Minds Network
+*Dec 2025 – Present | Remote*
+- Contributing to the design, development, and maintenance of responsive web pages using HTML, CSS, JavaScript, and modern frameworks
+- Collaborating with designers and senior developers to transform UI/UX designs into pixel-perfect, user-friendly interfaces
+- Debugging issues, optimizing performance, and writing clean, maintainable code
+- Testing features and suggesting UI/UX and performance improvements
 
-🔹 **WordPress Developer/SEO Specialist** @ Freelance *(Sep 2022 - Present)*
-- Successfully built, deployed, and optimized **25+ professional websites** for diverse industries
-- Specializing in **SEO**, **E-commerce Development** (Shopify, Magento, WooCommerce), and **Social Media Marketing**
+### **Data Science with AI Intern** @ Labmentix
+*Nov 2025 – Present | Remote*
+- Gaining hands-on experience in machine learning, artificial intelligence, and data analytics
+- Developing and implementing machine learning models for predictive analytics
+- Working with Python, pandas, NumPy, scikit-learn, and TensorFlow/PyTorch
+- Analyzing large datasets to extract meaningful insights and patterns
+- Integrating AI/ML capabilities into web applications
 
----
+### **Web Development Intern** @ DigiFalx Digital Beginning LLP
+*Oct 2025 – Present | Remote*
+- Designed, optimized, and deployed dynamic company websites using WordPress
+- Collaborated with senior developers to implement responsive layouts and boost site performance
+- Integrated SEO strategies that improved Google PageSpeed scores
+- Gained hands-on experience in technical execution and client management
 
-## 🛠️ Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### CMS & E-commerce
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
-
-### Tools & Technologies
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Raunit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raunitttttttttt-alt&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raunitttttttttt-alt&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raunitttttttttt-alt&theme=radical&hide_border=true)
-
-</div>
+### **Wordpress Developer/SEO Specialist** (Freelance)
+*Sep 2022 – Present | 3+ Years*
+- Successfully built, deployed, and optimized 25+ professional websites across diverse industries
+- Key Projects:
+  - **JigTech.me**: End-to-end IT solutions website with online service booking and responsive design
+  - **ArtisanalByte.com**: Portfolio & agency site using modern stack (Laravel, Vue.js, Tailwind, WordPress)
+  - **TopKlickz.com**: Digital marketing agency site with SEO, PPC, and testimonial modules
+  - **IPLPro.in**: News/blogging platform for sports content (500K+ monthly visitors through SEO optimization)
+  - **HemaChitraLeela.com**: Interactive art education platform with class booking and gallery features
+  - **GrowSuperRich.com**: Financial advisory website with service flows and subscriber integration
+- Stack Expertise: WordPress, Shopify, Magento, Flutter/Dart, Laravel, Vue.js, Tailwind CSS, SEO tools
+- Expertise: SEM, E-commerce Development, Responsive Web Design, Performance Optimization
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🎓 Education
 
-- ✅ **Automate Everything with n8n** - LetsUpgrade (Oct 2025)
-- 🎖️ **WordPress & Shopify Developer Intern Offer** - DigiFalx (Oct 2025)
-- 🌟 **25+ Client Websites Delivered** (2022-Present)
-- 📈 **100+ LinkedIn Followers** | Active Community Engagement
+**Bachelor of Technology in Computer Science**
+- PW Institute of Innovation (in tie-up with Medhavi Skills University)
+- Sep 2025 – Aug 2029 | Noida, India
 
----
-
-## 🚀 Featured Projects
-
-### 🌐 E-Commerce Websites
-- Built multiple **Shopify**, **WooCommerce**, and **Magento** stores
-- Implemented **SEO optimization** for improved search rankings
-- Delivered responsive, mobile-friendly designs
-
-### 📱 Mobile Application Development
-- Developing **Flutter (Dart)** applications
-- Focus on **cross-platform compatibility** and **user experience**
-
-### 💻 WordPress Custom Solutions
-- Custom theme development and modifications
-- **Speed optimization** and **plugin integrations**
-- Client-focused design and functionality
+**Senior Secondary Education (XIIth)**
+- National Institute of Open Schooling (NIOS)
 
 ---
 
-## 🌱 Currently Learning
+## 🏆 Certifications & Achievements
 
-- 📚 Advanced **C Programming** (Data Structures & Algorithms)
-- 🎨 **Full-Stack Web Development** (MERN Stack)
-- 📱 **Mobile App Development** with Flutter
-- 🤖 **AI/ML Basics** for Web Integration
+| Certification | Issuer | Date | Credential |
+|---|---|---|---|
+| Frontend Developer (React) | HackerRank | Dec 2025 | [1D8390E8623B](https://www.hackerrank.com/certificates/1d8390e8623b) |
+| JavaScript (Intermediate) | HackerRank | Dec 2025 | - |
+| JavaScript (Basic) | HackerRank | Dec 2025 | [1FC3671A5140](https://www.hackerrank.com/certificates/1fc3671a5140) |
+| Software Engineer Role | HackerRank | Dec 2025 | - |
+| **Total Certifications** | - | - | **7** |
 
----
-
-## 💡 What I'm Working On
-
-- 🔨 Building my **portfolio website** with advanced features
-- 🌐 Expanding my **freelance client base**
-- 👨‍💻 Contributing to **open-source projects**
-- 📝 Writing **tech blogs** and **tutorials**
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to:
-- 💼 **Freelance opportunities** in web/app development
-- 🚀 **Collaborating on exciting projects**
-- 🎓 **Hackathons** and **coding competitions**
-- 💬 **Tech discussions** about WordPress, SEO, and web development
-
-<div align="center">
-
-### 📫 Reach out to me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raunit1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://meet.raunitx.online/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:contact@raunitx.online)
+**Key Achievements:**
+- 143 profile views on LinkedIn
+- 169+ followers on LinkedIn
+- 38 search appearances in LinkedIn searches
+- 90+ post impressions in the past 7 days
+- 25+ professional websites delivered to satisfied clients
+- 500K+ monthly visitors on optimized SEO projects
 
 ---
 
-### ⚡ Fun Fact
-> Built **25+ client websites** before graduating! 🎓✨
+## 🛠️ Technical Skills
+
+### **Frontend Development**
+- **Languages**: HTML5, CSS3, JavaScript (Basic, Intermediate, Advanced)
+- **Frameworks & Libraries**: React.js, Vue.js, Tailwind CSS, Bootstrap, Elementor
+- **Tools**: VS Code, Figma, Canva, Chrome DevTools
+
+### **Backend Development**
+- **Languages**: Node.js, JavaScript, C (Competitive Programming)
+- **Frameworks**: Express.js, Laravel
+- **Databases**: MySQL, MongoDB, Firebase
+
+### **Mobile App Development**
+- **Technologies**: Flutter, Dart
+- **Platforms**: Android, iOS, Cross-platform
+
+### **Web Technologies & Platforms**
+- **CMS**: WordPress (Advanced), Shopify, Magento
+- **E-Commerce**: WooCommerce, Shopify Store Development, Magento Configuration
+- **SEO**: On-page SEO, Technical SEO, SEO Tools (Ahrefs, SEMrush, Yoast)
+
+### **Other Skills**
+- **Search Engine Marketing (SEM)**: Google Ads, Social Media Marketing
+- **Web Design & UI/UX**: Responsive Design, User Experience Optimization
+- **Performance Optimization**: PageSpeed Insights, Lighthouse Optimization
+- **Problem-Solving**: Data Structures, Algorithms, System Design
+- **Soft Skills**: Client Management, Communication, Project Collaboration
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+## 📊 Services Offered
 
-</div>
+- ✅ **WordPress Design & Development**: Custom theme development, plugin integration, Elementor page building
+- ✅ **Web Development**: Responsive websites, progressive web apps, custom functionality
+- ✅ **Web Design**: UI/UX design, landing pages, brand-focused design
+- ✅ **Search Engine Optimization (SEO)**: On-page optimization, technical SEO, keyword research
+- ✅ **E-Commerce Development**: Shopify stores, WooCommerce setup, Magento configuration
+- ✅ **Mobile App Development**: Flutter apps for iOS/Android, cross-platform solutions
+- ✅ **Social Media Marketing**: Content strategy, social media optimization
+- ✅ **Android/iOS Development**: Native and cross-platform app development
 
 ---
 
-<div align="center">
-  
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+## 📈 Recent Achievements
 
-**Thanks for visiting my profile! Feel free to explore my repositories and get in touch!** 😊
+### **Competitive Programming & Certifications**
+- Successfully cleared **HackerRank Software Engineer** role certification (Data Structures, Algorithms, System Design)
+- Completed **HackerRank Frontend Developer (React)** certification
+- Cleared **HackerRank JavaScript (Intermediate & Basic)** certifications
+- Strong foundation in problem-solving and data structures
 
-</div>
+### **Project Portfolio**
+- Built and maintained 25+ professional websites across multiple industries
+- Achieved 500K+ monthly visitors on SEO-optimized projects
+- Delivered high-performance websites with PageSpeed scores of 90+
+- Clients across IT, creative agencies, finance, education, and sports sectors
 
+---
+
+## 🎯 Career Goals & Open To
+
+🚀 **Currently Open To:**
+- Full-time/Part-time Web Development roles
+- Freelance web development projects
+- Internship opportunities in full-stack development
+- Collaborative projects involving React, Node.js, and modern web technologies
+- Mobile app development opportunities
+
+**Career Aspirations:**
+- Building scalable, high-performance web applications
+- Specializing in full-stack development and system architecture
+- Contributing to open-source projects
+- Mentoring junior developers
+- Creating innovative digital solutions that solve real-world problems
+
+---
+
+## 🌐 Featured Projects
+
+### **JigTech.me** - IT Solutions Website
+- End-to-end website with online service booking functionality
+- Responsive design optimized for all devices
+- Contact form integration and service showcase
+
+### **IPLPro.in** - Sports News & Blogging Platform
+- High-traffic platform (500K+ monthly visitors)
+- SEO-optimized for better Google rankings
+- Performance optimization for fast loading times
+
+### **ArtisanalByte.com** - Digital Product Agency Portfolio
+- Modern tech stack: Laravel, Vue.js, Tailwind CSS, WordPress
+- Tailored branding and responsive design
+- Portfolio and testimonial showcase
+
+---
+
+## 📞 Get In Touch
+
+- **Email**: contact@raunit.online
+- **LinkedIn**: [@raunit1](https://www.linkedin.com/in/raunit1/)
+- **Personal Website**: [meetraunit.online](https://www.meetraunit.online/)
+- **Phone**: +91-9172938748 (WhatsApp)
+
+---
+
+## 💡 Let's Collaborate!
+
+I'm always excited to work on innovative projects, collaborate with talented teams, and contribute to meaningful digital solutions. Whether you need a website redesign, mobile app development, SEO optimization, or a full-stack solution—let's connect and create something amazing together! 🚀
+
+---
+
+**"Building digital experiences that matter, one project at a time."**
 
