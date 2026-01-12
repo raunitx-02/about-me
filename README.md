@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer | Mobile App Developer | Data Science Enthusiast**
 
-🌍 Noida, Uttar Pradesh, India | 📧 contact@raunit.online | 🔗 [LinkedIn](https://www.linkedin.com/in/raunit1/) | 🌐 [Website](https://www.meetraunit.online/)
+🌍 Noida, Uttar Pradesh, India | 📧 contact@raunit.online | 🔗 [LinkedIn](https://www.linkedin.com/in/raunit1/) | 🌐 [Website](https://www.meet.raunitx.online/)
 
 ---
 
